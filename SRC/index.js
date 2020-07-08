@@ -1,0 +1,1 @@
+export {currentLocation,destinationLocation} from './redux/actionCreater' 
